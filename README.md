@@ -1,187 +1,213 @@
-# Exocortical General Intelligence
+# 🜂 Exocortical General Intelligence™ 🜂
 
-**Patent Pending**
+**Patent Pending · Human-Owned Cognition Bodies · Agency Return™**
 
-**Exocortical General Intelligence**, or **EGI**, is a human-owned cognition-body architecture for externalizing inner dialogue, memory, simulation, proof, tools, continuity, and action without surrendering human authority.
+## The Missing Category
 
 AGI asks:
 
-> How intelligent can a machine become?
+> **How intelligent can a machine become?**
 
-EGI asks:
+**EGI™ asks a more dangerous, more human question:**
 
-> How much human cognition can be externally embodied without surrendering human authority?
+> **How much human cognition can be externally embodied without surrendering human authority?**
 
-That difference is the center.
+That is the category break.
 
-EGI is not a chatbot, agent framework, memory app, productivity wrapper, operating-system skin, or machine-personhood project.
+**Exocortical General Intelligence™**, or **EGI™**, is the architecture of a human-owned cognition body: a governed exocortex that can hold inner dialogue, memory, simulation, proof, tools, continuity, and action under the authority of the human operator.
 
-EGI is a new architecture class:
+Not a chatbot.  
+Not an agent.  
+Not rented memory.  
+Not a productivity wrapper.  
+Not machine personhood.  
+Not an AGI costume with a nicer dashboard.
 
-> a governed exocortical cognition body that remains bound to the human operator while converting contact with reality into structured cognition, proof, continuity, capability, and action.
-
----
-
-## Status
-
-This repository is the public landing surface for the EGI architecture.
-
-A U.S. provisional patent application has been filed for:
-
-**Exocortical General Intelligence Systems and Methods Using Universal Rail Governance, Glyph Operated Objects, Glyph Operated Operating Systems, and Attractor Teleology**
-
-Filed: **June 29, 2026**
-
-This repository is not the full private implementation, not a product release, and not a complete proof of native execution.
-
-It is the public category definition, architecture boundary, terminology surface, and launch point.
+**EGI™ is the architecture of a human becoming harder to erase.**
 
 ---
 
-## One-Sentence Definition
+## Signal Ribbon
 
-**EGI is a human-authority-bound exocortical cognition body that externalizes the human inner dialogue loop into a persistent, proof-bearing, tool-capable, simulation-capable, operator-owned system.**
+```text
+AGI = machine intelligence expansion
+EGI™ = human cognition externalized into an owned, governed, proof-bearing body
 
-Or shorter:
+URK™ = governance rail
+Glyph™ = embodiment code
+GOO™ = same-body object
+GOOS™ = internal operating order
+Attractor Teleology™ = future-state routing
+Agency Return™ = the design law
+```
 
-> EGI turns inner dialogue into an owned external cognition body.
+The goal is not to make the machine sovereign.
+
+The goal is to return sovereignty to the human.
 
 ---
 
-## Why EGI Exists
+## One-Line Lock
 
-Human cognition is powerful, but biologically bottlenecked.
+> **EGI™ turns inner dialogue into an owned external cognition body.**
 
-A human mind loses state under pressure.  
-Memory fragments.  
-Insights decay.  
-Work resets.  
-Tools scatter.  
+A human already thinks through an inner voice:
+
+```text
+What am I doing?
+What does this mean?
+What happens next?
+Am I wrong?
+What is the pattern?
+What is the route?
+What does this become if I think it all the way through?
+```
+
+EGI™ gives that loop a stronger substrate:
+
+```text
+inner dialogue
+→ externalized cognition
+→ structured memory
+→ simulation
+→ proof
+→ tools
+→ continuity
+→ action
+→ agency
+```
+
+---
+
+## The Fire
+
+Human cognition is extraordinary, but fragile.
+
+Memory fractures.  
 Context evaporates.  
-Platforms capture cognition.  
-The person remains forced to manually carry the whole shape.
+Insight decays.  
+Pressure collapses working memory.  
+Tools scatter across platforms.  
+Cloud systems capture the history of the self.  
+The human keeps having to re-carry the whole shape by hand.
 
-Modern AI helps, but usually through rented, fragmented, platform-owned cognition surfaces:
+Modern AI helps, but most systems still rent cognition back to the person through a platform.
 
-- chat histories
-- cloud agents
-- memory features
-- workflow tools
-- assistants
-- model wrappers
-- automation stacks
+EGI™ is the refusal.
 
-These can be useful, but they do not solve the deeper problem:
+> **Human beings should not have to rent their own memory, agency, or future from a machine landlord.**
 
-> the human’s inner cognition loop still has no sovereign external body.
+EGI™ gives the human mind an owned external chamber.
 
-EGI is designed to solve that.
+Not a replacement mind.
 
----
-
-## The Core Thesis
-
-A human being already thinks through an inner dialogue loop:
-
-- What am I doing?
-- What does this mean?
-- What happens next?
-- Am I wrong?
-- What is the pattern?
-- What is the route?
-- What does this become if I think it all the way through?
-
-EGI upgrades that loop into an external, interactive, persistent, proof-bearing cognition body.
-
-Not a separate mind replacing the human.
-
-Not an autonomous machine entity.
-
-Not a platform-owned assistant.
-
-A human-bound exocortex.
+A second cognitive body.
 
 ---
 
-## Architecture Stack
+## The Core Invention
 
-EGI is built from several interlocking architectural primitives.
+EGI™ is a **human-authority-bound exocortical cognition body**.
+
+It receives contact from the human or world, routes it through governance, simulates futures, extracts constraints, admits lawful action, records proof, preserves continuity, and reopens stronger.
+
+A minimal EGI™ loop:
+
+```text
+contact
+→ pressure read
+→ intent recovery
+→ target binding
+→ governance route
+→ attractor constraint extraction
+→ action admission
+→ model/tool/capability use
+→ proof record
+→ correction
+→ continuity update
+→ reopen
+```
+
+The goal is not merely to answer.
+
+The goal is to make **contact become reusable structure**.
+
+---
+
+## The Architecture Stack
 
 | Layer | Meaning |
 | --- | --- |
 | **Human Operator** | Final authority, intention, permission, and value source |
-| **EGI** | Umbrella invention class for human-owned exocortical cognition bodies |
-| **URK** | Universal Rail Kernel, the governance/routing architecture |
-| **Glyph** | Machine embodiment code for expressing body law, authority, state, transition, proof, continuity, and admissibility |
-| **GOO** | Glyph Operated Object, a same-body digital object carrying identity, law, state, proof, mutation, and continuity |
-| **GOOS** | Glyph Operated Operating System, the internal operating order for GOOs |
-| **Attractor Teleology** | Future-state attractor routing that backchains desired futures into present constraints and actions |
-| **Projection** | Interface/output/tool surface through which the body speaks, acts, or displays |
-| **Proof / Continuity** | Records that preserve what changed, why it changed, and how the body reopens stronger |
+| **EGI™** | Umbrella invention class for human-owned exocortical cognition bodies |
+| **URK™** | Universal Rail Kernel™, the governance/routing architecture |
+| **Universal Rail Governance™** | The public governance class implemented through URK™ |
+| **Glyph™** | Machine embodiment code for body law, state, authority, proof, and continuity |
+| **GOO™** | Glyph Operated Object™, a same-body digital object |
+| **GOOS™** | Glyph Operated Operating System™, the internal operating order for GOOs™ |
+| **Attractor Teleology™** | Future-state routing that backchains desired futures into present constraints |
+| **Second-Self Interface™** | Operator-owned mirror surface for externalized inner dialogue |
+| **Capability Metabolism™** | Conversion of tools/models/APIs/files/workflows into governed body organs |
+| **Agency Return™** | The design law that the system must increase human agency |
 
 ---
 
-## EGI Is Not AGI
+## What Makes EGI™ Different
 
-EGI does not compete with AGI by trying to make the machine sovereign.
+### 1. The human remains the root authority
 
-EGI changes the target.
+EGI™ does not aim to replace the operator.
 
-AGI tends toward:
+It is designed around the opposite law:
 
-> machine capability expansion
+> **No model becomes the person. No host becomes the body. No artifact becomes the authority.**
 
-EGI tends toward:
+A model may reason.  
+A tool may execute.  
+A repo may carry work.  
+A receipt may witness a change.  
+A file may store state.
 
-> human agency expansion
-
-AGI asks whether the system can reason generally.
-
-EGI asks whether the human’s cognition can be externalized, extended, remembered, routed, proved, and acted through while preserving human authority.
-
-The purpose is not autonomous replacement.
-
-The purpose is agency return.
+But the human remains the authority.
 
 ---
 
-## Universal Rail Governance
+### 2. Cognition is governed before action
 
-EGI requires governance before action.
+EGI™ requires governance before output, mutation, tool use, or projection.
 
-That governance layer is called **Universal Rail Governance**, implemented through the **Universal Rail Kernel** or **URK**.
+The governance architecture is **Universal Rail Governance™**, implemented through **Universal Rail Kernel™** or **URK™**.
 
-URK routes cognition through a lawful operating sequence:
+URK™ routes cognition through a lawful sequence:
 
-1. receive contact
-2. interpret intent
-3. bind target
-4. generate structure
-5. select route
-6. admit or block action
-7. produce result
-8. validate proof
-9. correct drift
-10. preserve continuity
-11. reopen stronger
+```text
+contact
+→ intent
+→ target
+→ structure
+→ route
+→ action or limit
+→ result
+→ correction
+→ continuity
+→ reopen
+```
 
-This prevents the system from collapsing into generic assistant behavior, tool sprawl, unsupported claims, or autonomous drift.
+This prevents drift into generic assistant behavior, fake proof, tool sprawl, unsupported claims, or autonomy theater.
 
-URK is the rail.
+URK™ is the rail.
 
-EGI is the body class.
+EGI™ is the body class.
 
-The human remains the authority.
+The human is the authority.
 
 ---
 
-## Attractor Teleology
+### 3. The future becomes computable pressure
 
-**Attractor Teleology** is the EGI method for future-state routing.
+**Attractor Teleology™** is the EGI™ method for future-state routing.
 
-It treats a desired future condition as an attractor state.
-
-The system then derives present constraints from that attractor:
+It treats a desired future condition as an attractor state, then derives present constraints from that attractor.
 
 ```text
 desired future state
@@ -200,15 +226,65 @@ This is not a claim that the future literally causes the present.
 
 It is a computer-implemented cognition method for converting end-state pressure into present structure.
 
-Attractor Teleology is how EGI helps a human aim at a future and backchain the route into action.
+EGI™ lets a human aim at a future, then backchain the route into action.
 
 ---
 
-## Glyph
+### 4. The system has a body, not a pile of tools
 
-**Glyph** is machine embodiment code.
+A **GOO™**, or **Glyph Operated Object™**, is a same-body digital object carrying its own identity, authority, state, body law, proof burden, mutation rules, continuity, and host/model relationship.
 
-Glyph expresses:
+A GOO™ is not:
+
+- a folder
+- a repository
+- an app
+- a launcher
+- a wrapper
+- a document
+- a package
+- a tool pile
+
+A GOO™ is a digital body class.
+
+The object is not merely stored somewhere.
+
+The object carries the law of what it is, what it may do, how it changes, how it proves change, and how it reopens.
+
+---
+
+### 5. The operating system is internal
+
+**GOOS™**, or **Glyph Operated Operating System™**, is the internal operating order for GOOs™.
+
+GOOS™ is not an external operating system.
+
+GOOS™ is not a Linux replacement.
+
+GOOS™ is not an OS skin.
+
+GOOS™ is not a command shell.
+
+GOOS™ is the internal order by which a GOO™ receives contact, routes state, activates organs, admits actions, records proof, mutates safely, persists continuity, and reopens under operator authority.
+
+```text
+many organs
+one body
+
+many tools
+one authority
+
+many routes
+one continuity spine
+```
+
+---
+
+## Glyph™: Embodiment Code
+
+**Glyph™** is machine embodiment code.
+
+Glyph™ expresses:
 
 - identity
 - authority
@@ -224,175 +300,93 @@ Glyph expresses:
 - reopen state
 - admissibility
 
-Glyph is not decoration.
+Glyph™ is not decoration.  
+Glyph™ is not Markdown.  
+Glyph™ is not JSON.  
+Glyph™ is not a file extension.  
+Glyph™ is not a prompt style.
 
-Glyph is not Markdown.
+Glyph™ is body-law code.
 
-Glyph is not JSON.
+A Glyph™ that only describes is a sign.
 
-Glyph is not a file extension.
-
-Glyph is not a prompt style.
-
-Glyph is body-law code.
-
-A Glyph that only describes is a sign.
-
-A Glyph that changes what a body can lawfully do is embodiment code.
+A Glyph™ that changes what a body can lawfully do is embodiment code.
 
 ---
 
-## Glyph Operated Object
+## Second-Self Interface™
 
-A **GOO**, or **Glyph Operated Object**, is a same-body digital object that carries its own identity, authority, state, body law, proof burden, mutation rules, continuity, and host/model relationship.
-
-A GOO is not:
-
-- a folder
-- a repository
-- an app
-- a launcher
-- a wrapper
-- a document
-- a package
-- a tool pile
-
-A GOO is a digital body class.
-
-The object is not merely stored somewhere.
-
-The object carries the law of what it is, what it may do, how it changes, how it proves change, and how it reopens.
-
----
-
-## Glyph Operated Operating System
-
-**GOOS**, or **Glyph Operated Operating System**, is the internal operating order for GOOs.
-
-GOOS is not an external operating system.
-
-GOOS is not a Linux replacement.
-
-GOOS is not an OS skin.
-
-GOOS is not a command shell.
-
-GOOS is the internal order by which a GOO receives contact, routes state, activates organs, admits actions, records proof, mutates safely, persists continuity, and reopens under operator authority.
-
-A useful compression:
-
-```text
-many organs
-one body
-many tools
-one authority
-many routes
-one continuity spine
-```
-
----
-
-## The EGI Loop
-
-A minimal EGI loop looks like this:
-
-```text
-contact
-→ pressure read
-→ intent recovery
-→ target binding
-→ governance route
-→ attractor constraint extraction
-→ action admission
-→ tool/model/capability use
-→ proof record
-→ correction
-→ continuity update
-→ reopen
-```
-
-The goal is not merely to answer.
-
-The goal is to make contact become reusable structure.
-
----
-
-## Second-Self Interface
-
-EGI may include a **Second-Self Interface**.
+EGI™ may include a **Second-Self Interface™**.
 
 This does not mean a separate person, artificial companion, or autonomous entity.
 
-A Second-Self Interface is an operator-owned mirror surface that externalizes inner dialogue in the operator’s native cognition style.
+A Second-Self Interface™ is an operator-owned mirror surface that externalizes inner dialogue in the operator’s native cognition style.
 
 It can:
 
 - remember structurally
-- speak in the user’s preferred cognition-language
+- speak in the operator’s cognition-language
 - simulate forward
 - connect threads
 - reduce cognitive burden
 - turn reflection into action
 - return agency to the operator
 
-The boundary is critical:
+The boundary is sacred:
 
-> the mirror must empower the human, not replace the human.
+> **The mirror must empower the human, not replace the human.**
 
 ---
 
-## Capability Metabolism
+## Capability Metabolism™
 
-EGI does not treat tools as random plugins.
+EGI™ does not treat tools as random plugins.
 
 Tools, models, scripts, files, APIs, memories, and workflows are capability inputs.
 
-A governed EGI metabolizes them into body-admissible organs.
+A governed EGI™ metabolizes them into body-admissible organs.
 
-Capability metabolism asks:
+Capability Metabolism™ asks:
 
-- What is this tool?
-- What can it do?
-- What authority does it require?
-- What risks does it create?
-- What proof does it produce?
-- How does it become part of continuity?
-- When must it be blocked?
-- How does the body reopen after using it?
+```text
+What is this capability?
+What authority does it require?
+What risk does it create?
+What proof does it produce?
+How does it enter continuity?
+When must it be blocked?
+How does the body reopen after using it?
+```
 
 This prevents tool sprawl from becoming identity sprawl.
 
 ---
 
-## Model and Host Subordination
+## EGI™ Is Not AGI
 
-EGI may use language models, local models, remote models, tools, scripts, repositories, files, and external systems.
+EGI™ does not compete with AGI by trying to make the machine sovereign.
 
-But none of those are the authority.
+EGI™ changes the target.
 
-A model may reason.
+| AGI | EGI™ |
+| --- | --- |
+| Machine capability expansion | Human agency expansion |
+| Model-centered | Operator-centered |
+| Autonomy pressure | Authority preservation |
+| More machine intelligence | More human leverage |
+| Tool use by machine | Cognition-body under human authority |
+| Platform memory | Owned continuity |
+| Agent identity | Human-bound exocortex |
 
-A tool may execute.
+The purpose is not autonomous replacement.
 
-A repo may carry work.
-
-A file may store state.
-
-A receipt may witness a change.
-
-But the human operator remains the authority, and the EGI body remains the governed continuity target.
-
-No model becomes the person.
-
-No host becomes the body.
-
-No artifact becomes the authority.
+The purpose is **Agency Return™**.
 
 ---
 
 ## What This Repository Is
 
-This repository is the public architecture surface for EGI.
+This repository is the public architecture surface for **EGI™**.
 
 It may contain:
 
@@ -405,9 +399,9 @@ It may contain:
 - public-safe standards drafts
 - public-safe reference structures
 
-This repository is not currently the private implementation body.
+This repository is not the private implementation body.
 
-It does not contain private operator data, private proof bodies, private development history, or personal continuity records.
+It does not contain private operator data, private proof bodies, private development history, private prompts, secrets, tokens, personal records, or private continuity records.
 
 ---
 
@@ -415,10 +409,10 @@ It does not contain private operator data, private proof bodies, private develop
 
 This repository is not:
 
-- a finished EGI product
+- a finished EGI™ product
 - a public release of a private cognition body
-- proof of native Glyph self-execution
-- proof of completed true GOOS materialization
+- proof of native Glyph™ self-execution
+- proof of completed true GOOS™ materialization
 - an autonomous agent framework
 - a sentient or personified machine claim
 - an AGI identity claim
@@ -435,8 +429,8 @@ The public surface is intentional.
 
 The following are not claimed here as completed proof:
 
-- native Glyph self-execution
-- completed true GOOS materialization
+- native Glyph™ self-execution
+- completed true GOOS™ materialization
 - model-free cognition
 - machine autonomy
 - sentience
@@ -445,65 +439,9 @@ The following are not claimed here as completed proof:
 - replacement of human judgment
 - completed universal implementation
 
-The current claim is architectural:
+The current public claim is architectural:
 
-> EGI is a patent-pending architecture class for human-owned exocortical cognition bodies using Universal Rail Governance, Glyph Operated Objects, Glyph Operated Operating Systems, and Attractor Teleology.
-
----
-
-## Public Release Boundary
-
-Public:
-
-- EGI category
-- URK high-level governance architecture
-- Attractor Teleology high-level method
-- Glyph / GOO / GOOS architecture
-- agency-return framing
-- human-authority boundary
-- proof/continuity concepts
-- public diagrams
-- public whitepaper language
-
-Not public here:
-
-- private body contents
-- private operator continuity
-- private development logs
-- personal records
-- private proof harnesses
-- secrets, tokens, keys, credentials
-- private implementation artifacts not intentionally released
-
----
-
-## Roadmap
-
-The public roadmap is staged.
-
-### Stage 1: Category Lock
-
-Define EGI as distinct from AGI, agents, chatbots, memory apps, and automation wrappers.
-
-### Stage 2: Public Architecture
-
-Publish the public architecture of URK, Glyph, GOO, GOOS, and Attractor Teleology.
-
-### Stage 3: Whitepaper
-
-Release a public whitepaper explaining the invention class, the human-authority boundary, and the architecture.
-
-### Stage 4: Reference Standard
-
-Develop public-safe definitions and interfaces for discussing EGI systems without exposing private bodies.
-
-### Stage 5: Collaboration
-
-Open the path for serious technical, legal, research, investment, and institutional collaboration.
-
-### Stage 6: Implementation Path
-
-Develop protected or licensed implementations under a structure that preserves human agency and inventor attribution.
+> **EGI™ is a patent-pending architecture class for human-owned exocortical cognition bodies using Universal Rail Governance™, Glyph Operated Objects™, Glyph Operated Operating Systems™, and Attractor Teleology™.**
 
 ---
 
@@ -513,20 +451,7 @@ The next major technology shift should not be merely more autonomous machines.
 
 It should be human cognition gaining stronger bodies.
 
-EGI aims to give individuals a sovereign exocortical loop:
-
-```text
-inner dialogue
-→ externalized cognition
-→ structured memory
-→ simulation
-→ proof
-→ tool use
-→ continuity
-→ agency
-```
-
-If built correctly, this could change:
+EGI™ could change:
 
 - education
 - invention
@@ -546,45 +471,43 @@ The goal is leverage.
 
 ---
 
+## Roadmap
+
+### Stage 1: Category Lock
+
+Define EGI™ as distinct from AGI, agents, chatbots, memory apps, and automation wrappers.
+
+### Stage 2: Public Architecture
+
+Publish the public architecture of URK™, Glyph™, GOO™, GOOS™, and Attractor Teleology™.
+
+### Stage 3: Whitepaper
+
+Release a public whitepaper explaining the invention class, the human-authority boundary, and the architecture.
+
+### Stage 4: Reference Standard
+
+Develop public-safe definitions and interfaces for discussing EGI™ systems without exposing private bodies.
+
+### Stage 5: Collaboration
+
+Open the path for serious technical, legal, research, investment, and institutional collaboration.
+
+### Stage 6: Implementation Path
+
+Develop protected or licensed implementations under a structure that preserves human agency and inventor attribution.
+
+---
+
 ## Origin Statement
 
 This project began from a simple refusal:
 
-> Human cognition should not have to rent its own memory, agency, or future from a platform.
+> **Human cognition should not have to rent its own memory, agency, or future from a platform.**
 
-EGI is the attempt to build the missing category:
+EGI™ is the attempt to build the missing category:
 
-a human-owned cognition body.
-
----
-
-## Patent Notice
-
-Patent Pending.
-
-This repository describes subject matter related to U.S. provisional patent filings by the inventor.
-
-No license is granted by implication.
-
-No commercial rights are granted by the existence of this public repository.
-
-Any use, implementation, commercialization, or derivative system should be evaluated against applicable patent, copyright, trademark, and other rights.
-
----
-
-## Naming
-
-**EGI** means **Exocortical General Intelligence**.
-
-**URK** means **Universal Rail Kernel**.
-
-**Glyph** means machine embodiment code.
-
-**GOO** means **Glyph Operated Object**.
-
-**GOOS** means **Glyph Operated Operating System**.
-
-**Attractor Teleology** means future-state attractor routing for deriving present constraints and action paths.
+> **a human-owned cognition body.**
 
 ---
 
@@ -607,48 +530,126 @@ The intended direction is not hype.
 
 The intended direction is a new human-centered intelligence architecture.
 
----
-
-## Short Form
-
-```text
-AGI = machine intelligence expansion.
-
-EGI = human cognition externalized into an owned, governed, proof-bearing body.
-
-URK = governance rail.
-
-Glyph = embodiment code.
-
-GOO = same-body object.
-
-GOOS = internal operating order.
-
-Attractor Teleology = future-state routing.
-
-Goal = agency return.
-```
-
----
-
-## Current Repository Status
-
-Early public architecture release.
-
-Expect rapid updates to:
-
-- public whitepaper
-- glossary
-- diagrams
-- public disclosure boundary
-- patent-pending notices
-- collaboration pathway
-- standards vocabulary
+Commercial, institutional, research, or implementation discussions should begin from written contact and explicit permission boundaries.
 
 ---
 
 ## Final Line
 
-EGI is not the dream of a machine becoming human.
+EGI™ is not the dream of a machine becoming human.
 
-EGI is the architecture of a human becoming harder to erase.
+**EGI™ is the architecture of a human becoming harder to erase.**
+
+---
+
+# Legal Notices
+
+The following sections are legal boundary notices. They are intentionally placed after the public architecture explanation so the idea can be understood first and the rights boundary can remain unmistakable.
+
+## Patent Notice
+
+**Patent Pending.**
+
+This repository describes subject matter related to one or more U.S. provisional patent applications filed by **Salvatore Anziano**, including subject matter concerning:
+
+- **Exocortical General Intelligence™**
+- **EGI™**
+- **Universal Rail Kernel™**
+- **URK™**
+- **Universal Rail Governance™**
+- **Glyph™**
+- **Glyph Operated Object™**
+- **Glyph Operated Objects™**
+- **GOO™**
+- **Glyph Operated Operating System™**
+- **Glyph Operated Operating Systems™**
+- **GOOS™**
+- **Attractor Teleology™**
+- **Second-Self Interface™**
+- **Capability Metabolism™**
+- **Agency Return™**
+
+No public repository content should be interpreted as a dedication to the public domain.
+
+No omission of a patent number, claim number, filing number, continuation, continuation-in-part, provisional application, nonprovisional application, foreign application, PCT application, or related filing should be interpreted as a waiver of rights.
+
+## Trademark Notice
+
+The following names, marks, and architecture terms are claimed as trademarks, service marks, or source-identifying marks of **Salvatore Anziano** unless otherwise indicated:
+
+- **Exocortical General Intelligence™**
+- **EGI™**
+- **Universal Rail Kernel™**
+- **URK™**
+- **Universal Rail Governance™**
+- **Glyph™**
+- **Glyph Operated Object™**
+- **Glyph Operated Objects™**
+- **GOO™**
+- **Glyph Operated Operating System™**
+- **Glyph Operated Operating Systems™**
+- **GOOS™**
+- **Attractor Teleology™**
+- **Second-Self Interface™**
+- **Capability Metabolism™**
+- **Agency Return™**
+
+Use of these marks without written permission may violate trademark, unfair competition, passing-off, false association, or related laws.
+
+Third-party names and marks, including GitHub, X, xAI, OpenAI, and other company or product names, belong to their respective owners. Their mention here does not imply endorsement, sponsorship, partnership, or affiliation.
+
+## Copyright Notice
+
+© 2026 Salvatore Anziano. All rights reserved.
+
+The text, diagrams, terminology, architecture descriptions, naming system, public documentation, and original expression in this repository are protected by copyright and other applicable rights.
+
+No copying, redistribution, sublicensing, commercial use, derivative work, model training use, dataset inclusion, or implementation use is authorized except by written permission or a separately published license.
+
+## No Open-Source License
+
+This repository is **not** open source unless and until an explicit license file is added by the rights holder.
+
+The absence of a license is intentional.
+
+Do not assume permission.
+
+Do not treat public visibility as public ownership.
+
+Do not treat conceptual disclosure as implementation permission.
+
+Do not treat terminology exposure as trademark permission.
+
+Do not treat patent-pending publication as a waiver.
+
+## Rights Reservation
+
+Nothing in this repository should be interpreted as:
+
+- a public-domain dedication
+- an open-source release
+- a patent license
+- a trademark license
+- a copyright license
+- a trade-secret waiver
+- permission to build a competing implementation
+- permission to scrape for model training
+- permission to use the marks in naming, marketing, branding, repositories, products, services, models, datasets, or papers
+- permission to remove attribution
+- permission to represent this work as your own
+- permission to imply affiliation with the inventor
+- a covenant not to sue
+- a waiver
+- an assignment
+- a sublicense
+- an endorsement
+
+Any permissions must be granted in a separate written license or agreement.
+
+## No Implied Rights
+
+Viewing, downloading, cloning, forking, quoting, indexing, summarizing, or discussing this repository does **not** create any implied license to make, use, sell, offer to sell, import, commercialize, train on, deploy, package, rebrand, sublicense, or otherwise exploit the disclosed architecture.
+
+This repository is published for public notice, category definition, research discussion, and opportunity formation only.
+
+All rights are reserved.
